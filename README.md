@@ -1,6 +1,6 @@
 ### print("Hi I'm César 👋")
 
-- 😄 Dependences:
+- Dependences:
   - 👨🏻‍💻 Strong hands
   - 🙆 Patience
   - 📚 Thirst for knowledge
